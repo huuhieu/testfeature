@@ -23,5 +23,5 @@ Feature: Login feature
     Given I want to use MergeSort feature
     Then I want to use MergeSort to sort 9 numbers
     And I see random number array, I like it so I want to use it
-    Then I see number array after merge sort and sort steps
+    Then I see number array after merge sort and sort steps s
   
